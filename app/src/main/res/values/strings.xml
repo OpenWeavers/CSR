@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSR</string>
+    <string name="Enter_Usn">Enter USN</string>
+    <string name="get_result_button">Get Result</string>
+</resources>
